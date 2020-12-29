@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kishore-gunnam/kishore-gunnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey there 👋, I'm Kishore Gunnam</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+- 🔭 I’m currently working at [mroads](https://www.mroads.com)  
+
+- 👨‍💻 All of my projects are available at [https://kishore-gunnam.github.io/](https://kishore-gunnam.github.io/) 
+
+- 📫 How to reach me **kishoregunnam@outlook.com**
