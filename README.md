@@ -56,4 +56,4 @@ I'm Kishore, a professional self-taughted FullStack web developer from India.
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-gunnam&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Kishore Gunnam Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-gunnam&show_icons=true&title_color=ffc857&count_private=true&theme=radical" alt="Kishore Gunnam Github Stats">
