@@ -31,7 +31,7 @@ I'm Kishore, a professional self-taughted FullStack web developer from India.
 
 - 🖥  I’m a Full stack developer, creator, and freelancer.
 - 🔭 I’m currently working on: Fullstack development (Next JS, GraphQL, Firebase, React), DS Algo and SaaS growth.
-- 👨‍💻 All of my projects are available at [kishoregunnam.com](https://www.kishoregunnam.com/) 
+- 👨‍💻 All of my projects are available at [kishoregunnam.in](https://www.kishoregunnam.in/) 
 
 - 🔨 Building [Tailwind Master Kit](https://www.tailwindmasterkit.com/) and [Algochurn](https://algochurn.com/)
 
